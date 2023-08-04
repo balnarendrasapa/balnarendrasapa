@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bal Narendra Sapa</h1>
 <h3 align="center">Data Science and AI Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balnarendrasapa" alt="balnarendrasapa" /></a> </p>
-
 - 👨‍💻 Link to my portfolio [https://balnarendrasapa.github.io/portfolio/](https://balnarendrasapa.github.io/portfolio/)
 
 - 💬 Ask me about **python, django, django-rest-framework, machine learning, APIs**
