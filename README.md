@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bal Narendra Sapa</h1>
 <h3 align="center">Data Science and AI Enthusiast</h3>
 
-- 👨‍💻 Link to my portfolio [https://balnarendrasapa.github.io/portfolio/](https://balnarendrasapa.github.io/portfolio/)
+- 👨‍💻 Link to my portfolio [https://balnarendrasapa.github.io/portfolio/](https://balnarendrasapa.github.io/portfolio/) <-- Under Development
 
 - 💬 Ask me about **python, django, django-rest-framework, machine learning, APIs**
 
