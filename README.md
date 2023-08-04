@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQG8L1RqpnmiHw/profile-displaybackgroundimage-shrink_350_1400/0/1677881517240?e=1696464000&v=beta&t=zoJ3y6LinioZ-sjz15CJOfws2MhJ4OaadvjdePE2L6o)](https://www.linkedin.com/in/bal-narendra-s/)
 <h1 align="center">Hi 👋, I'm Bal Narendra Sapa</h1>
 <h3 align="center">Data Science and AI Enthusiast</h3>
 
