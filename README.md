@@ -18,3 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&theme=dark" alt="balnarendrasapa" /></p>
+
+### :octocat: Github Activity Graph
+
+![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=react-dark&hide_border=true&radius=5)
+
+
