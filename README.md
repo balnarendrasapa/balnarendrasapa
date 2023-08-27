@@ -7,7 +7,7 @@
 
 ### 🌈: About Myself
 
-👋 Hi there! I'm Bal Narendra Sapa, a highly motivated AI developer with a strong passion for leveraging technology to create innovative solutions. I recently completed a transformative internship, where I had the opportunity to dive into the world of AI and Natural Language Processing (NLP). Here's a snapshot of my journey:
+👋 Hi there! I'm Bal Narendra Sapa, a guy with a strong passion for leveraging technology to create innovative solutions. I recently completed a transformative internship, where I had the opportunity to dive into the world of AI and Natural Language Processing (NLP). Here's a snapshot of my journey:
 
 During my enriching internship, I delved into a wide array of cutting-edge technologies that have significantly expanded my skill set and proficiency in various domains of the tech industry. 📚 In the realm of version control and collaboration, I honed my expertise in Git, harnessing its power for efficient version tracking and seamless teamwork. Additionally, I navigated the intricacies of Azure DevOps, leveraging its robust features for streamlined project management and collaborative endeavors, akin to the functionalities offered by GitHub.
 
