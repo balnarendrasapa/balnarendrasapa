@@ -98,7 +98,7 @@ Technologies, Tools that I've used at least once
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&theme=dark" alt="balnarendrasapa" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=compact&theme=dark"/></p>
 ---
 
 ### :octocat: Github Activity Graph
