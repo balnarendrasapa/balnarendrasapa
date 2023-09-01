@@ -96,9 +96,17 @@ Technologies, Tools that I've used at least once
 
 ## :1234: GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" /></p>
+<a href="https://github.com/balnarendrasapa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" />
+</a>
+<a href="https://github.com/balnarendrasapa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balnarendrasapa&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+<br />
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&theme=dark" alt="balnarendrasapa" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=compact&theme=dark"/></p>
+<br />
+
 ---
 
 ### :octocat: Github Activity Graph
