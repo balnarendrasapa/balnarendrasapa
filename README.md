@@ -97,7 +97,6 @@ Technologies, Tools that I've used at least once
 ## :1234: GitHub Stats
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balnarendrasapa&layout=compact&langs_count=8&card_width=396&theme=dark" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&card_width=480&theme=dark" alt="balnarendrasapa" />
 
 ---
