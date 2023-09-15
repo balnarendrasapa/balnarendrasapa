@@ -5,11 +5,11 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 const organizationName = "balnarendrasapa";
-const projectName = "docusaurus_site";
+const projectName = "balnarendrasapa";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
+  title: "Portfolio",
   tagline: "Dinosaurs are cool",
   url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
@@ -60,9 +60,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Portfolio",
         logo: {
-          alt: "My Site Logo",
+          alt: "Portfolio Logo",
           src: "img/logo.svg",
         },
         items: [
