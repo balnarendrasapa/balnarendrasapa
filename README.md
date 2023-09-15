@@ -96,9 +96,13 @@ Technologies, Tools that I've used at least once
 
 ## :1234: Stats
 
+### GitHub Stats
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=dark&locale=en" alt="balnarendrasapa" />
+
+### Contributions
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&card_width=480&theme=dark" alt="balnarendrasapa" />
 
+### Leetcode Stats
 ![](https://leetcard.jacoblin.cool/balnarendrasapa?border=0&radius=20)
 
 ---
