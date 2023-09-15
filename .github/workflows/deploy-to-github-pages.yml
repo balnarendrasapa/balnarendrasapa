@@ -57,15 +57,6 @@ jobs:
       - name: Create a docs folder
         run: mkdir -p ./docs/docs_skeleton/docs
 
-      - name: Remove README.md file in docs folder
-        run: rm -rf ./docs/docs_skeleton/docs/README.md
-
-      - name: Move Readme file to files directory
-        run: mv ./README.md ./docs/files/
-
-      - name: Rename Readme file to intro
-        run: mv ./docs/files/README.md ./docs/files/intro.md
-
       - name: Copy markdown and notebook files to docs_skeleton
         run: cp -r ./docs/files/** ./docs/docs_skeleton/docs/
 
