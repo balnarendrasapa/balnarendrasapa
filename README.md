@@ -1,8 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQG8L1RqpnmiHw/profile-displaybackgroundimage-shrink_350_1400/0/1677881517240?e=1696464000&v=beta&t=zoJ3y6LinioZ-sjz15CJOfws2MhJ4OaadvjdePE2L6o)](https://www.linkedin.com/in/bal-narendra-s/)
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mooli&size=75&duration=1500&pause=600&color=E3F7F5FF&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+👋!;My+name+is+Bal+Narendra+Sapa;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+</h1>
 
----
 
-<h1 align="center">Hi 👋, I'm Bal Narendra Sapa</h1>
 <h3 align="center">🚀 Natural Language Processing and Data Science Enthusiast | Problem Solver 🚀</h3>
 
 ### 🌈: About Myself
