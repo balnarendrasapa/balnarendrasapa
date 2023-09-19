@@ -103,7 +103,7 @@ Technologies, Tools that I've used at least once
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&card_width=480&theme=chartreuse-dark" alt="balnarendrasapa" />
 
 ### Leetcode Stats
-![](https://leetcard.jacoblin.cool/balnarendrasapa?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/balnarendrasapa?border=1&radius=20&ext=heatmap&theme=dark)
 
 ---
 
