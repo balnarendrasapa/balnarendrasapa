@@ -109,12 +109,12 @@ Technologies, Tools that I've used at least once
 
 ### :octocat: Github Activity Graph
 
-![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=react-dark&hide_border=true&radius=5)
+![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=chartreuse-dark&hide_border=true&radius=5)
 
 ---
 
 ### :mushroom: Github Trophy
 
-![balnarendrasapa's Github Trophy](https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=monokai&no-bg=true&no-frame=true&rank=-C,-B)
+![balnarendrasapa's Github Trophy](https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=react-dark&no-bg=true&no-frame=true&rank=-C,-B)
 
 
