@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🚀 Natural Language Processing and Data Science Enthusiast | Problem Solver 🚀</h3>
+<h3 align="center">🚀 Data Science Enthusiast | Problem Solver 🚀</h3>
 
 ### 🌈: About Myself
 
