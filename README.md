@@ -115,6 +115,6 @@ Technologies, Tools that I've used at least once
 
 ### :mushroom: Github Trophy
 
-![balnarendrasapa's Github Trophy](https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=react-dark&no-bg=true&no-frame=true&rank=-C,-B)
+![balnarendrasapa's Github Trophy](https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=onedark)
 
 
