@@ -115,7 +115,7 @@ Technologies, Tools that I've used at least once
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=donut&theme=dark)](https://github.com/balnarendrasapa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=compact&theme=dark)](https://github.com/balnarendrasapa)
 
 ### :mushroom: Github Trophy
 
