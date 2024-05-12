@@ -3,21 +3,18 @@
 </h1>
 
 
-### 🌈: About Myself
+## 🌈: About Myself
 
 
----
-
-### 🔗: Connect with me
+## 🔗: Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/bal-narendra-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bal-narendra-s" height="30" width="40" /></a>
 <a href="https://instagram.com/bnsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bnsapa" height="30" width="40" /></a>
 </p>
 
----
 
-### :hammer: Tech Stack
+## :hammer: Tech Stack
 
 Technologies, Tools that I've used at least once
 
@@ -40,9 +37,6 @@ Technologies, Tools that I've used at least once
 | **Other Tools** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white) ![VIM](https://img.shields.io/badge/VIM-019733?style=flat-square&logo=Vim&logoColor=white) |
 
 
-
----
-
 ## :1234: Stats
 
 <table>
@@ -56,14 +50,11 @@ Technologies, Tools that I've used at least once
   </tr>
 </table>
 
----
-
-### :octocat: Github Activity Graph
+## :octocat: Github Activity Graph
 
 ![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=chartreuse-dark&hide_border=true&radius=5)
 
----
-
+## Most used languages and other stats
 <table align="center">
   <tr>
     <td>
