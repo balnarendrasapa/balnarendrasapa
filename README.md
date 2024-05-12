@@ -64,12 +64,17 @@ Technologies, Tools that I've used at least once
 
 ---
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=pie&theme=dark&hide=jupyter%20notebook,html,css)](https://github.com/balnarendrasapa)
-
-### :mushroom: Github Trophy
-
-![balnarendrasapa's Github Trophy](https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=onedark)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/balnarendrasapa">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=pie&theme=dark&hide=jupyter%20notebook,html,css" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=onedark&column=4" />
+    </td>
+  </tr>
+</table>
 
 
