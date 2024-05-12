@@ -64,7 +64,7 @@ Technologies, Tools that I've used at least once
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/balnarendrasapa">
