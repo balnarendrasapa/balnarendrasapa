@@ -3,23 +3,8 @@
 </h1>
 
 
-<h3 align="center">🚀 Data Science Enthusiast | Problem Solver 🚀</h3>
-
 ### 🌈: About Myself
 
-👋 Hi there! I'm Bal Narendra Sapa, a guy with a strong passion for leveraging technology to create innovative solutions. I recently completed a transformative internship, where I had the opportunity to dive into the world of AI and Natural Language Processing (NLP). Here's a snapshot of my journey:
-
-During my enriching internship, I delved into a wide array of cutting-edge technologies that have significantly expanded my skill set and proficiency in various domains of the tech industry. 📚 In the realm of version control and collaboration, I honed my expertise in Git, harnessing its power for efficient version tracking and seamless teamwork. Additionally, I navigated the intricacies of Azure DevOps, leveraging its robust features for streamlined project management and collaborative endeavors, akin to the functionalities offered by GitHub.
-
-🤖 My journey into the world of AI and Natural Language Processing was truly exhilarating. By harnessing the capabilities of the OpenAI API, I incorporated advanced AI functionalities into my projects, enabling them to perform complex tasks with remarkable accuracy. My exploration of Hugging Face models, including Falcon 4b, Falcon 40b, and Llama2, equipped me with the tools to tackle intricate NLP challenges, further enhancing my ability to comprehend and manipulate human language.
-
-🌐 In the realm of web development and frameworks, I ventured into creating user-friendly applications. By employing Streamlit, I constructed a dynamic web application tailored to process documents and provide insightful answers. My introduction to Django, a powerful web framework, allowed me to craft robust and responsive web applications while mastering the art of building RESTful APIs using the Django REST Framework.
-
-💾 Diving into the intricacies of databases and Object-Relational Mapping, I became well-versed in utilizing Django's ORM to seamlessly manage databases. I successfully implemented functionalities such as user creation and file storage, showcasing my prowess in integrating complex data management systems into practical applications.
-
-🐍 My expertise in Python libraries was further enriched with the utilization of the Langchain library for efficient NLP tasks. I also embraced coding best practices by incorporating Python linters such as Black formatter and Flake8 linter, ensuring impeccable code quality and style in all my projects.
-
-🐳 Finally, my journey encompassed the world of containers and deployment, where I garnered a strong understanding of Docker. By mastering the art of containerization, I gained the ability to package applications and their dependencies effectively, streamlining the deployment process and contributing to the overall efficiency of software distribution.
 
 ---
 
