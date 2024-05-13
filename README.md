@@ -80,10 +80,10 @@ Technologies, Tools that I've used at least once
 <table>
   <tr>
     <td>
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=chartreuse-dark&locale=en" alt="balnarendrasapa" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=balnarendrasapa&show_icons=true&theme=radical&locale=en" alt="balnarendrasapa" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&card_width=480&theme=chartreuse-dark" alt="balnarendrasapa" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balnarendrasapa&card_width=480&theme=radical" alt="balnarendrasapa" />
     </td>
   </tr>
 </table>
