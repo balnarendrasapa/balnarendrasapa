@@ -2,13 +2,6 @@
 <a href="https://github.com/balnarendrasapa"><img src="https://readme-typing-svg.herokuapp.com?font=Mooli&size=75&duration=1500&pause=600&color=E3F7F5FF&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+👋!;My+name+is+Bal+Narendra+Sapa;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
 
-## Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/bal-narendra-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bal-narendra-s" height="30" width="40" /></a>
-<a href="https://instagram.com/bnsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bnsapa" height="30" width="40" /></a>
-</p>
-
 
 ## Tech Stack
 
@@ -97,7 +90,7 @@ Technologies, Tools that I've used at least once
 
 ## Github Activity Graph
 
-![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=chartreuse-dark&hide_border=true&radius=5)
+![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=react-dark&hide_border=true&radius=5)
 
 ## Most used languages and other stats
 <table align="center">
