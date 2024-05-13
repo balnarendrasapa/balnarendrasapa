@@ -3,10 +3,10 @@
 </h1>
 
 
-## 🌈: About Myself
+## About Myself
 
 
-## 🔗: Connect with me
+## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/bal-narendra-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bal-narendra-s" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 </p>
 
 
-## :hammer: Tech Stack
+## Tech Stack
 
 Technologies, Tools that I've used at least once
 
@@ -86,7 +86,7 @@ Technologies, Tools that I've used at least once
 </table>
 
 
-## :1234: Stats
+## Stats
 
 <table>
   <tr>
@@ -99,7 +99,7 @@ Technologies, Tools that I've used at least once
   </tr>
 </table>
 
-## :octocat: Github Activity Graph
+## Github Activity Graph
 
 ![balnarendrasapa's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balnarendrasapa&theme=chartreuse-dark&hide_border=true&radius=5)
 
