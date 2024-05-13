@@ -97,11 +97,11 @@ Technologies, Tools that I've used at least once
   <tr>
     <td>
       <a href="https://github.com/balnarendrasapa">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=pie&theme=dark&hide=jupyter%20notebook,html,css" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnarendrasapa&layout=pie&theme=radical&hide=jupyter%20notebook,html,css" />
       </a>
     </td>
     <td>
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=onedark&column=4" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=balnarendrasapa&theme=radical&column=4" />
     </td>
   </tr>
 </table>
