@@ -1,10 +1,6 @@
 <h1 align = "center">
-<a href="https://github.com/balnarendrasapa"><img src="https://readme-typing-svg.herokuapp.com?font=Mooli&size=75&duration=1500&pause=600&color=E3F7F5FF&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+👋!;My+name+is+Bal+Narendra+Sapa;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://github.com/balnarendrasapa"><img src="https://readme-typing-svg.herokuapp.com?font=Mooli&size=75&duration=1500&pause=600&color=E3F7F5FF&background=0d1117&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+👋!;My+name+is+Bal+Narendra+Sapa;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
-
-
-## About Myself
-
 
 ## Connect with me
 
