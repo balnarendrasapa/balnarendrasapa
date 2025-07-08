@@ -29,4 +29,6 @@
   </tr>
 </table>
 
+## LeetCode Stats
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/balnarendrasapa)](https://leetcode.com/balnarendrasapa)
